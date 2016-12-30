@@ -1,0 +1,33 @@
+body{
+   font-family: sans-serif;
+}
+.wrapper{
+  width: 600px;
+  margin: 0 auto;
+}
+.title{
+  font-size: 1.5em;
+}
+.subtitle{
+  font-size: 1.1em;
+  color: darkcyan;
+}
+.about{
+  font-style: italic;
+}
+.about-title{
+  font-style: normal;
+  color: darkcyan;
+}
+.name{
+  font-style: normal;
+  background: darkcyan;
+}
+.list li {
+  list-style: square outside;
+  font-style: italic;
+}
+.skills{
+  font-style: normal;
+  color: darkcyan;
+}
