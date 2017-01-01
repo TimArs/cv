@@ -10,7 +10,7 @@ body{
   font-size: 3.2em;
 }
 .subtitle{
-  font-size: 2.3em;
+  font-size: 2.0em;
   color: darkcyan;
 }
 .about{
@@ -20,6 +20,7 @@ body{
   list-style: square outside;
 }
 .about-title{
+  font-size: 1.8em;
   font-style: normal;
   color: darkcyan;
 }
@@ -29,13 +30,13 @@ body{
 }
 .name{
   font-style: normal;
-  background: darkcyan;
 }
 .list li {
   list-style: square outside;
   font-style: italic;
 }
 .skills{
+  font-size: 1.8em;
   font-style: normal;
   color: darkcyan;
 }
